@@ -1,0 +1,5 @@
+emlog-dkms (0.70-0) stable; urgency=medium
+
+  * Initial package
+
+ -- Bruno Binet <bruno.binet@gmail.com>  Thu, 13 Jun 2019 17:09:25 +0200

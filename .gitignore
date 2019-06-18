@@ -1,0 +1,12 @@
+/debian/.debhelper/
+/debian/debhelper-build-stamp
+/debian/files
+/debian/emlog-dkms.debhelper.log
+/debian/emlog-dkms.dkms.debhelper
+/debian/emlog-dkms.postinst.debhelper
+/debian/emlog-dkms.prerm.debhelper
+/debian/emlog-dkms.substvars
+/debian/emlog-dkms/
+/debian/emlog-bin.debhelper.log
+/debian/emlog-bin.substvars
+/debian/emlog-bin/
