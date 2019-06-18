@@ -3,7 +3,7 @@ Maintainer: Bruno Binet <bruno.binet@gmail.com>
 Build-Depends: debhelper (>= 9), dkms
 
 Package: emlog-dkms
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}
 Description: DKMS source for the emlog kernel module
 
